@@ -1,0 +1,23 @@
+{
+  "name": "contact-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visakhcv/contact-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visakhcv/contact-server/issues"
+  },
+  "homepage": "https://github.com/visakhcv/contact-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.2"
+  }
+}
